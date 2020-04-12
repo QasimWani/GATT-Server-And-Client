@@ -1,4 +1,6 @@
 # GATT-Server-And-Client
+### Deadline : April 13, 2020.
+> I'm so fucked.
 ### Todo:
 <ol>
   <li> BLE Scanner (no UUID filter) </li>
@@ -12,5 +14,4 @@
   <li> Proximity calculation using rssi and signal strength </li>
   <li> Notification subscription </li>
 </ol>
-#### Deadline : April 13, 2020.
-> I'm so fucked.
+
